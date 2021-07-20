@@ -6,7 +6,7 @@
 - how to make the Robomaster S1 become a line follower. I have bumpers
 - and fenders made of aluminium on my robot. However, you can find the
 - Scratch version of the Robomaster S1 Line Follower program right on dji's
-- website, under their programming section.
+- website at https://www.dji.com/ca under their programming smart section.
 - 📫 You can reach me on Github.com and https://www.youtube.com/user/spaceuphoria/discussion
 
 <!---
