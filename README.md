@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics and programming.
 - 🌱 I’m currently learning Python; four years this Christmas day coming.
 - 💞️ If anyone wants Python code, Robomaster s1 Python code and Cozmo
-- Python code; I have them all. Please not: I don't have any Python code on
+- Python code; I have them all. Please note: I don't have any Python code on
 - how to make the Robomaster S1 become a line follower. I have bumpers
 - and fenders made of aluminium on my robot. However, you can find the
 - Scratch version of the Robomaster S1 Line Follower program right on dji's
