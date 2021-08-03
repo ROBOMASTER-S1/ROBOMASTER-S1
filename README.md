@@ -1,3 +1,4 @@
+![Robomaster App 2](https://user-images.githubusercontent.com/34896540/127963132-d2fb27fd-061a-4b1d-baff-1891de9c8dca.jpg)
 ![Battle modes](https://user-images.githubusercontent.com/34896540/127962830-c9c718e2-89cb-4eaf-8ab4-92a8f183245d.jpg)
 - 👋 Hi, I’m ROBOMASTER-S1.
 - 👀 I’m interested in robotics and programming.
