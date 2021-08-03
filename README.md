@@ -1,4 +1,3 @@
-![Robomaster App 2](https://user-images.githubusercontent.com/34896540/127963132-d2fb27fd-061a-4b1d-baff-1891de9c8dca.jpg)
 - 👋 Hi, I’m ROBOMASTER-S1.
 - 👀 I’m interested in robotics and programming.
 - 🌱 I’m currently learning Python; four years this Christmas day coming.
@@ -10,3 +9,4 @@
 - 📫 You can reach me on Github.com and https://www.youtube.com/user/spaceuphoria/discussion
 - While you're at it, why not try out my really cool Robomaster S1 Comes to Life
 - Python program example. I'm pretty sure you'll love it.
+![Robomaster App 2](https://user-images.githubusercontent.com/34896540/127963132-d2fb27fd-061a-4b1d-baff-1891de9c8dca.jpg)
