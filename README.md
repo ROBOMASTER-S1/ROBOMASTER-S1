@@ -11,5 +11,5 @@
 - Python program example. I'm pretty sure you'll love it.
 - Here is the actual YouTube video of the Robomaster S1 Comes to Life 4.0 Python program video example:
 - https://www.youtube.com/watch?v=L-c5KgZZA_0
-  
+- Why not learn some Raspberry Pi 4 with me. I'm very new to the famous Raspberry Pi, but I just love it...  
 - [Robomaster App 2](https://user-images.githubusercontent.com/34896540/127963132-d2fb27fd-061a-4b1d-baff-1891de9c8dca.jpg)
