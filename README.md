@@ -12,4 +12,4 @@
 - Here is the actual YouTube video of the Robomaster S1 Comes to Life 4.0 Python program video example:
 - https://www.youtube.com/watch?v=L-c5KgZZA_0
   
-  [Robomaster App 2](https://user-images.githubusercontent.com/34896540/127963132-d2fb27fd-061a-4b1d-baff-1891de9c8dca.jpg)
+- [Robomaster App 2](https://user-images.githubusercontent.com/34896540/127963132-d2fb27fd-061a-4b1d-baff-1891de9c8dca.jpg)
