@@ -44,6 +44,6 @@ Science is not just for smart people from a university. Science can and often do
 
 Don't be afraid of making mistakes, they are our greatest lessons through life. When we learn from them, they become our greatest teachers through life and we become their greatest, lifelong student...
 
-Always remember that mistakes are Hidden Teachers in discrete disguise. So don't ever be afraid of making mistakes; they always teach us something, while we unwittingly achieve closer to our accomplished goal.
+Always remember that mistakes are Hidden Teachers in discrete disguise. So don't ever be afraid of making mistakes; they always teach us something, while we unwittingly achieve closer to our accomplished goal...
 
 It's because of  mistakes that things are possible to achieve. It's because of mistakes that keep us at a humble stance, not getting careless or dangerous with the things we learn and do. Mistakes are very important byproducts of everything we venture into. The mistakes we make can lead to a far greater understanding and knowledge than we had ever anticipated. Imagine that?
