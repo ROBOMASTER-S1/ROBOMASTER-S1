@@ -39,3 +39,11 @@ Just one very important lesson to always remember: learn how to play again; that
 The human imagination should never ever be bought or sold; by doing such, it will only dry up one day. Some things are supposed to be free. Some things are just too priceless to buy. Some things are just too precious to sell. Some things just have to be free to all humanity period! Since the inception of this Knowledge poem, I made it a humanitarian right to have these priceless, precious words forever, for free. 
 
 This Knowledge poem will never ever be bought or sold to anyone, which means it could also remain unpublished forever. May your heart be filled with courage and compassion, and your mind be as limitless and as wondrous as the universe itself! If you dream it, you can be it. Believe it! Your imagination can take you far. It just depends on how much you let it expand...
+
+Science is not just for smart people, science can and often does happen for anyone. All you really need is a bit of imagination and a whole lot of trial and error. Anyone can achieve anything they so wish. All you have to do is believe in yourself, while you make all kinds of mistakes along the way. Sooner or later, what doesn't work now will eventually work out, when you least expect it. Science and discovery is all about trial and error. So don't become discouraged when something won't work out right. Give it some time, before you know it, you will start to see the sparks fly.
+
+Don't be afraid of making mistakes, they are our greatest lessons through life. When we learn from them, they become our greatest teachers through life and we become their greatest, lifelong student...
+
+Always remember that mistakes are Hidden Teachers in discrete disguise. So don't ever be afraid of making mistakes; they always teach us something, while we unwittingly achieve closer to our accomplished goal.
+
+It's because of  mistakes that things are possible to achieve. It's because of mistakes that keep us at a humble stance, not getting careless or dangerous with the things we learn and do. Mistakes are very important byproducts of everything we venture into. The mistakes we make can lead to a far greater understanding and knowledge than we had ever anticipated. Imagine that?
