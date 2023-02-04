@@ -46,4 +46,6 @@ Don't be afraid of making mistakes, they are our greatest lessons through life. 
 
 Always remember that mistakes are Hidden Teachers in discrete disguise. So don't ever be afraid of making mistakes; they always teach us something, while we unwittingly achieve closer to our accomplished goal...
 
+And as far as mistakes go, you are going to be in for quite the wild ride and a rude awakening if you think that you can stave them. Yet, always remember that mistakes are simply hidden teachers in discrete disguise. if you don't make mistakes, you won't learn. If you find you are making too many mistakes, walk away from the forest to see the trees. Don't give up! Take a Break instead! You will see them trees and when you do, the sparks will start to fly...
+
 It's because of  mistakes that things are possible to achieve. It's because of mistakes that keep us at a humble stance, not getting careless or dangerous with the things we learn and do. Mistakes are very important byproducts of everything we venture into. The mistakes we make can lead to a far greater understanding and knowledge than we had ever anticipated. Imagine that?
