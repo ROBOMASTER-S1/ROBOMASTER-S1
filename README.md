@@ -38,6 +38,7 @@ Please visit my YouTube Community page at:
 https://www.youtube.com/@Compuscience-Python-Prog-Exps/community
 
 ![Walking Human Computer Science Laboratory Machine](https://user-images.githubusercontent.com/34896540/227739072-8ca6f83a-407a-49f4-9719-5572628281d1.png)
+
 ‘Knowledge’ is a free invention of the heart and of the mind itself! The only textbooks needed are the heart and the mind. The only exam to be written is the key to ponder into wonder. For the heart and the mind hold the key to the greatest diploma of all, the dream’s creation of our imagination. For the heart and the mind are thus, the greatest teachers of us… Believe in yourself! For you are their greatest student.
 
 THIS BELONGS TO EVERY MAN, WOMAN AND CHILD Never give up your dream, no matter how far away it may seem to be, because that is when it is ever so close to becoming true. If you dream of something long enough and strong enough, your dream will come true, when you least expect it. Always remember, we are never too young or too old to dream and use our imagination, for we only get one and it is ours forever. May your heart be filled with courage and compassion, and your mind be as limitless and as wondrous as the universe itself! If you dream it, you can be it. Believe it!
@@ -57,6 +58,7 @@ Science is not just for smart people from a university. Science can and often do
 And as far as mistakes go, you are going to be in for quite the wild ride and a rude awakening if you think that you can stave them. Yet, always remember that mistakes are simply hidden teachers in discrete disguise. if you don't make mistakes, you won't learn. If you find you are making too many mistakes, walk away from the forest to see the trees. Don't give up! Take a Break instead! You will see them trees and when you do, the sparks will start to fly...
 
 ![MISTAKES](https://user-images.githubusercontent.com/34896540/227740119-110f472f-4d4e-499b-a8bb-4eaa032db93f.png)
+
 Don't be afraid of making mistakes, they are our greatest lessons through life. When we learn from them, they become our greatest teachers through life and we become their greatest, lifelong student...
 
 Always remember that mistakes are Hidden Teachers in discrete disguise. So don't ever be afraid of making mistakes; they always teach us something, while we unwittingly achieve closer to our accomplished goal...
