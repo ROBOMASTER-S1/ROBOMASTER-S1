@@ -37,7 +37,7 @@ https://join.skype.com/dfcTasWE0Qe7
 Please visit my YouTube Community page at:
 https://www.youtube.com/@Compuscience-Python-Prog-Exps/community
 
-![image](https://user-images.githubusercontent.com/34896540/227739007-ae332e1d-8fed-4e5d-b81f-2af5bd98be4d.png)
+![Walking Human Computer Science Laboratory Machine](https://user-images.githubusercontent.com/34896540/227739072-8ca6f83a-407a-49f4-9719-5572628281d1.png)
 
 ‘Knowledge’ is a free invention of the heart and of the mind itself! The only textbooks needed are the heart and the mind. The only exam to be written is the key to ponder into wonder. For the heart and the mind hold the key to the greatest diploma of all, the dream’s creation of our imagination. For the heart and the mind are thus, the greatest teachers of us… Believe in yourself! For you are their greatest student.
 
