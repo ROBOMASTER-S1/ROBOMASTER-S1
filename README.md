@@ -1,3 +1,4 @@
+![Abstract Hexagons](https://user-images.githubusercontent.com/34896540/227804688-d3a69c67-ac6f-41d4-9654-ac83415ddd64.jpg)
 - 👋 Hi, I’m ROBOMASTER-S1.
 - 👀 I’m interested in robotics and programming.
 - 🌱 I’m currently learning Python; five years this Christmas day, 2022 coming.
