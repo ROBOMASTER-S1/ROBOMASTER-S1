@@ -24,17 +24,6 @@ You can visit my GitHub Gist page for quicker access to these Python files and P
 
 https://gist.github.com/ROBOMASTER-S1
 
-You can reach me on Skype under the user name:
-Computer Science & Python Programming
-
-https://join.skype.com/dkOwy17KKlrH
-https://join.skype.com/lceEkWj6UC4f
-https://join.skype.com/kj0WpWUOTYCf
-https://join.skype.com/cgscog58YtYW
-https://join.skype.com/ms1Vhoc8srtQ
-https://join.skype.com/lsOfsa3eRqNC
-https://join.skype.com/dfcTasWE0Qe7
-
 Please visit my YouTube Community page at:
 https://www.youtube.com/@Compuscience-Python-Prog-Exps/community
 
