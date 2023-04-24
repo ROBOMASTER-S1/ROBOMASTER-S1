@@ -56,3 +56,4 @@ Always remember that mistakes are Hidden Teachers in discrete disguise. So don't
 It's because of mistakes that things are possible to achieve. It's because of mistakes that keep us at a humble stance, not getting careless or dangerous with the things we learn and do. Mistakes are very important byproducts of everything we venture into. The mistakes we make can lead to a far greater understanding and knowledge than we had ever anticipated. Imagine that?
 
 ![MISTAKES II (1)](https://user-images.githubusercontent.com/34896540/227740374-d029fdab-368e-42ec-8a93-d1355d3ab4bc.png)
+![Karlene](https://user-images.githubusercontent.com/34896540/234070783-9b3a7302-8947-4b02-9940-c37ec0009134.png)
