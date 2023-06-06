@@ -18,8 +18,6 @@
 - Python Programmer's Glossary Bible by Joseph C. Richardson https://www.youtube.com/playlist?list=PL-Jc1Yxezi_QFx7KmT-BeDoFnlH-bdUkF
 - [Robomaster App 2](https://user-images.githubusercontent.com/34896540/127963132-d2fb27fd-061a-4b1d-baff-1891de9c8dca.jpg)
 
-Why not come to one of my many chat group rooms, where I can help hands-on, and you are also more than welcome to copy or download any python programming files you want. However, all chat group rooms are Moderated. I hope to see you there...
-
 You can visit my GitHub Gist page for quicker access to these Python files and Python programs:
 
 https://gist.github.com/ROBOMASTER-S1
