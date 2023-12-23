@@ -44,11 +44,13 @@ Science is not just for smart people from a university. Science can and often do
 
 And as far as mistakes go, you are going to be in for quite the wild ride and a rude awakening if you think that you can stave them. Yet, always remember that mistakes are simply hidden teachers in discrete disguise. if you don't make mistakes, you won't learn. If you find you are making too many mistakes, walk away from the forest to see the trees. Don't give up! Take a Break instead! You will see them trees and when you do, the sparks will start to fly...
 ![MISTAKES](https://user-images.githubusercontent.com/34896540/227740119-110f472f-4d4e-499b-a8bb-4eaa032db93f.png)
+
 Don't be afraid of making mistakes, they are our greatest lessons through life. When we learn from them, they become our greatest teachers through life and we become their greatest, lifelong student...
 
 Always remember that mistakes are Hidden Teachers in discrete disguise. So don't ever be afraid of making mistakes; they always teach us something, while we unwittingly achieve closer to our accomplished goal...
 
 It's because of mistakes that things are possible to achieve. It's because of mistakes that keep us at a humble stance, not getting careless or dangerous with the things we learn and do. Mistakes are very important byproducts of everything we venture into. The mistakes we make can lead to a far greater understanding and knowledge than we had ever anticipated. Imagine that?
+
 ![MISTAKES II (1)](https://user-images.githubusercontent.com/34896540/227740374-d029fdab-368e-42ec-8a93-d1355d3ab4bc.png)
 
 ![Moto SB Poem](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/a2aba258-2daf-42a0-bbe0-eecb76434353)
