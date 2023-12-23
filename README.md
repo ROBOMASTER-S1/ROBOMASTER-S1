@@ -23,6 +23,7 @@ You can visit my GitHub Gist page for quicker access to these Python files and P
 https://gist.github.com/ROBOMASTER-S1
 
 Please visit my YouTube Community page at:
+
 https://www.youtube.com/@Compuscience-Python-Prog-Exps/community
 ![Walking Human Computer Science Laboratory Machine](https://user-images.githubusercontent.com/34896540/227739072-8ca6f83a-407a-49f4-9719-5572628281d1.png)
 ‘Knowledge’ is a free invention of the heart and of the mind itself! The only textbooks needed are the heart and the mind. The only exam to be written is the key to ponder into wonder. For the heart and the mind hold the key to the greatest diploma of all, the dream’s creation of our imagination. For the heart and the mind are thus, the greatest teachers of us… Believe in yourself! For you are their greatest student.
@@ -43,6 +44,7 @@ This Knowledge poem will never ever be bought or sold to anyone, which means it 
 Science is not just for smart people from a university. Science can and often does happen for anyone. All you really need is a bit of imagination and a whole lot of trial and error. Anyone can achieve anything they so wish. All you have to do is believe in yourself, while you make all kinds of mistakes along the way. Sooner or later, what doesn't work now will eventually work out, when you least expect it. Science and discovery is all about trial and error. So don't become discouraged when something won't work out right. Give it some time, before you know it, you will start to see the sparks fly...
 
 And as far as mistakes go, you are going to be in for quite the wild ride and a rude awakening if you think that you can stave them. Yet, always remember that mistakes are simply hidden teachers in discrete disguise. if you don't make mistakes, you won't learn. If you find you are making too many mistakes, walk away from the forest to see the trees. Don't give up! Take a Break instead! You will see them trees and when you do, the sparks will start to fly...
+
 ![MISTAKES](https://user-images.githubusercontent.com/34896540/227740119-110f472f-4d4e-499b-a8bb-4eaa032db93f.png)
 
 Don't be afraid of making mistakes, they are our greatest lessons through life. When we learn from them, they become our greatest teachers through life and we become their greatest, lifelong student...
