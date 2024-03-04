@@ -1,4 +1,4 @@
-![Binary Bit Screen Dim Red](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/595f7f05-4ee8-4f18-93f6-3146617ebdc8)
+![Binary Bit Screen Red](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/1d4b2da6-d10d-4861-ba8d-06c9e3334e44)
 - 👋 Hi, I’m ROBOMASTER-S1.
 - 👀 I’m interested in robotics and programming.
 - 🌱 I’m currently learning Python; six years this Christmas day, 2023 coming.
