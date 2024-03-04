@@ -1,4 +1,4 @@
-![Abstract Hexagons](https://user-images.githubusercontent.com/34896540/227804688-d3a69c67-ac6f-41d4-9654-ac83415ddd64.jpg)
+![Binary Bit Screen Dim Red](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/595f7f05-4ee8-4f18-93f6-3146617ebdc8)
 - 👋 Hi, I’m ROBOMASTER-S1.
 - 👀 I’m interested in robotics and programming.
 - 🌱 I’m currently learning Python; six years this Christmas day, 2023 coming.
