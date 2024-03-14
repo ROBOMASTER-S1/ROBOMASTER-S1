@@ -1,4 +1,4 @@
-![Raspberry Pi Bin Hot](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/c4c20a94-a365-4873-836e-d4ece4fb5d06)
+![Arc Frame Rasp Pi Binary Look](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/f0dd7901-8307-494f-968c-b1ffb2548994)
 - 👋 Hi, I’m ROBOMASTER-S1.
 - 👀 I’m interested in robotics and programming.
 - 🌱 I’m currently learning Python; six years this Christmas day, 2023 coming.
