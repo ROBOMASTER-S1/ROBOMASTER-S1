@@ -1,6 +1,8 @@
 ![Arc Frame Rasp Pi Binary Look](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/f0dd7901-8307-494f-968c-b1ffb2548994)
 https://www.youtube.com/playlist?list=PL-Jc1Yxezi_TVuk92hlGSzMgaULXm-Zp6
 
+Raspberry Pi 4 Projects
+
 https://www.youtube.com/playlist?list=PL-Jc1Yxezi_RUX7TH3Zf6PRh4prxK9uHu
 
 RASP Pi 4 LED BINARY DIGITS AND THREE 8b  74HC595 SHIFT REGISTERS
