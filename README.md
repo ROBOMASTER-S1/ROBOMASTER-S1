@@ -1,4 +1,7 @@
 ![Arc Frame Rasp Pi Binary Look](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/f0dd7901-8307-494f-968c-b1ffb2548994)
+https://www.youtube.com/playlist?list=PL-Jc1Yxezi_TVuk92hlGSzMgaULXm-Zp6
+https://www.youtube.com/playlist?list=PL-Jc1Yxezi_RUX7TH3Zf6PRh4prxK9uHu
+https://www.youtube.com/playlist?list=PL-Jc1Yxezi_TOR8jY5l94UJ7WbXld1p1y
 - 👋 Hi, I’m ROBOMASTER-S1.
 - 👀 I’m interested in robotics and programming.
 - 🌱 I’m currently learning Python; six years this Christmas day, 2023 coming.
