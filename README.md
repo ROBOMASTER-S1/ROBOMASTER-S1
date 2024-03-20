@@ -1,4 +1,7 @@
 ![Arc Frame Rasp Pi Binary Look](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/f0dd7901-8307-494f-968c-b1ffb2548994)
+
+Raspberry Pi 4 8gb is here...
+
 https://www.youtube.com/playlist?list=PL-Jc1Yxezi_TVuk92hlGSzMgaULXm-Zp6
 
 Raspberry Pi 4 Projects
