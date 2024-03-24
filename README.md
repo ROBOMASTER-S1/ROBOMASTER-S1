@@ -13,6 +13,8 @@ RASP Pi 4 LED BINARY DIGITS AND THREE 8b  74HC595 SHIFT REGISTERS
 https://www.youtube.com/playlist?list=PL-Jc1Yxezi_TOR8jY5l94UJ7WbXld1p1y
 
 ![20200624_150719](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/068c4b02-7f25-4e4a-83cd-38c63a044367)
+
+Welcome to the Robomaster S1 Robot from dji Python Programming Examples
 https://www.youtube.com/playlist?list=PL-Jc1Yxezi_ShdaaEPE3mSawOt79ewUPZ
 
 - 👋 Hi, I’m ROBOMASTER-S1.
