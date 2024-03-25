@@ -22,6 +22,10 @@ Welcome to the Robomaster S1 Robot from dji Python Programming Video Examples
 
 https://www.youtube.com/playlist?list=PL-Jc1Yxezi_ShdaaEPE3mSawOt79ewUPZ
 
+Learning how to program the Robomaster s1 in Python
+
+https://github.com/ROBOMASTER-S1/ROBOMASTER-S1-Python-Examples
+
 - 👋 Hi, I’m ROBOMASTER-S1.
 - 👀 I’m interested in robotics and programming.
 - 🌱 I’m currently learning Python; six years this Christmas day, 2023 coming.
