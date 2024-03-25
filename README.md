@@ -28,6 +28,14 @@ https://github.com/ROBOMASTER-S1/ROBOMASTER-S1-Python-Examples
 
 ![Big Python Logo](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/98e5e27d-269e-40e6-9806-1784b14e1921)
 
+Python Programmer's Glossary Bible Videos By Joseph C. Richardson
+
+https://www.youtube.com/playlist?list=PL-Jc1Yxezi_QFx7KmT-BeDoFnlH-bdUkF
+
+Minute Python Program Video Examples
+
+https://www.youtube.com/playlist?list=PL-Jc1Yxezi_To307LogWqMwn3KGNBMGPG
+
 Learn about Python Programming with me...
 
 https://github.com/ROBOMASTER-S1/Lets-Learn-Python-Together
