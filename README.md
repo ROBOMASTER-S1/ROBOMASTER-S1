@@ -16,7 +16,7 @@ Raspberry Pi4 Polished Python Programs
 
 https://github.com/ROBOMASTER-S1/Polished-Raspberry-Pi4-Progs
 
-![20200624_150719](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/068c4b02-7f25-4e4a-83cd-38c63a044367)
+![Arc Frame Robomaster Parts](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/fedc5f82-10fd-42f9-bf9c-4297f51c627a)
 
 Welcome to the Robomaster S1 Robot from dji Python Programming Video Examples
 
