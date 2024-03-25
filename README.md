@@ -26,6 +26,12 @@ Learning how to program the Robomaster s1 in Python
 
 https://github.com/ROBOMASTER-S1/ROBOMASTER-S1-Python-Examples
 
+![Big Python Logo](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/98e5e27d-269e-40e6-9806-1784b14e1921)
+
+Learn about Python Programming with me...
+
+https://github.com/ROBOMASTER-S1/Lets-Learn-Python-Together
+
 - 👋 Hi, I’m ROBOMASTER-S1.
 - 👀 I’m interested in robotics and programming.
 - 🌱 I’m currently learning Python; six years this Christmas day, 2023 coming.
