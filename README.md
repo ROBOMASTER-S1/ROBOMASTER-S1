@@ -42,6 +42,12 @@ Learn about Python Programming with me...
 
 https://github.com/ROBOMASTER-S1/Lets-Learn-Python-Together
 
+![Flipper Zerro Background](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/30f66895-7fb8-4b79-acb2-43d50c0f2d91)
+
+My FLIPPER ZERO and How To Video Playlist
+
+https://www.youtube.com/playlist?list=PL-Jc1Yxezi_T5exaIaist2wP-ODzFC1wR
+
 - 👋 Hi, I’m ROBOMASTER-S1.
 - 👀 I’m interested in robotics and programming.
 - 🌱 I’m currently learning Python; six years this Christmas day, 2023 coming.
