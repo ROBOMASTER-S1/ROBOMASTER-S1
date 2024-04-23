@@ -109,6 +109,8 @@ It's because of mistakes that things are possible to achieve. It's because of mi
 
 ![Moto SB Poem](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/a2aba258-2daf-42a0-bbe0-eecb76434353)
 
+![All In Good Time](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/4587015a-9da3-4e29-95c4-099dc79e98a5)
+
 ![Fib-Numbers](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/c6640974-a606-44db-bd7a-c5de3c82ed80)
 
 ![Genius](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/cb3966bd-41f3-4366-9ad4-acd782cdd3d5)
