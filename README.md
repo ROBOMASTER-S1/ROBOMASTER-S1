@@ -92,7 +92,8 @@ Just one very important lesson to always remember: learn how to play again; that
 The human imagination should never ever be bought or sold; by doing such, it will only dry up one day. Some things are supposed to be free. Some things are just too priceless to buy. Some things are just too precious to sell. Some things just have to be free to all humanity period! Since the inception of this Knowledge poem, I made it a humanitarian right to have these priceless, precious words forever, for free...
 
 This Knowledge poem will never ever be bought or sold to anyone, which means it could also remain unpublished forever. May your heart be filled with courage and compassion, and your mind be as limitless and as wondrous as the universe itself! If you dream it, you can be it. Believe it! Your imagination can take you far. It just depends on how much you let it expand...
-![35](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/f19fa8e6-e4f9-4af8-994f-bca7f04fa3ae)
+
+![Binary Blues](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/b13ff3ca-bb7c-4aa5-b348-d0f8f7c4a1f8)
 
 Science is not just for smart people from a university. Science can and often does happen for anyone. All you really need is a bit of imagination and a whole lot of trial and error. Anyone can achieve anything they so wish. All you have to do is believe in yourself, while you make all kinds of mistakes along the way. Sooner or later, what doesn't work now will eventually work out, when you least expect it. Science and discovery is all about trial and error. So don't become discouraged when something won't work out right. Give it some time, before you know it, you will start to see the sparks fly...
 
