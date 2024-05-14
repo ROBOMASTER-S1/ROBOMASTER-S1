@@ -18,10 +18,14 @@
 - Here is the actual YouTube video of the Robomaster S1 Comes to Life 4.0 Python program video example:
   
   https://www.youtube.com/watch?v=L-c5KgZZA_0
+  
 - Robomaster S1 YouTube video list https://www.youtube.com/playlist?list=PL-Jc1Yxezi_ShdaaEPE3mSawOt79ewUPZ
 - Why not learn some Raspberry Pi 4 with me. I'm very new to the famous Raspberry Pi, but I just love it...
+  
   https://www.youtube.com/playlist?list=PL-Jc1Yxezi_TOR8jY5l94UJ7WbXld1p1y
+  
 - Python Programmer's Glossary Bible by Joseph C. Richardson
+  
   https://www.youtube.com/playlist?list=PL-Jc1Yxezi_QFx7KmT-BeDoFnlH-bdUkF
   [Robomaster App 2](https://user-images.githubusercontent.com/34896540/127963132-d2fb27fd-061a-4b1d-baff-1891de9c8dca.jpg)
 
