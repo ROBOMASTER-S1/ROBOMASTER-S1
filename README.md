@@ -2,7 +2,7 @@
 
 - 😀 Hi, I’m ROBOMASTER-S1.
 - 💞️ I’m interested in robotics and programming.
-- 🌱 I’m currently learning Python; six years this Christmas day, 2023 coming.
+- 🌱 I’m currently learning Python; seven years this Christmas day, 2024 coming.
 - 👀 If anyone wants Python code, Robomaster s1 Python code and Cozmo
   Python code; I have them all. I now have Python code on how to make the 
   Robomaster S1 become a line follower.
