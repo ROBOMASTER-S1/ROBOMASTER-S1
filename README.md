@@ -6,6 +6,8 @@
 - 👀 If anyone wants Python code, Robomaster s1 Python code and Cozmo
   Python code; I have them all. I now have Python code on how to make the 
   Robomaster S1 become a line follower.
+
+- I am almost a complete Walking Human Computer Science Research Laboratory Machine on Two Legs. 😁
   
 - 📫 You can reach me on Github.com and:
 
