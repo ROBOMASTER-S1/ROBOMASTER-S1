@@ -22,7 +22,7 @@
 - https://www.youtube.com/playlist?list=PL-Jc1Yxezi_TOR8jY5l94UJ7WbXld1p1y
 - Python Programmer's Glossary Bible by Joseph C. Richardson
   https://www.youtube.com/playlist?list=PL-Jc1Yxezi_QFx7KmT-BeDoFnlH-bdUkF
-- [Robomaster App 2](https://user-images.githubusercontent.com/34896540/127963132-d2fb27fd-061a-4b1d-baff-1891de9c8dca.jpg)
+  [Robomaster App 2](https://user-images.githubusercontent.com/34896540/127963132-d2fb27fd-061a-4b1d-baff-1891de9c8dca.jpg)
 
 You can visit my GitHub Gist page for quicker access to these Python files and Python programs:
 
