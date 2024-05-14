@@ -40,7 +40,7 @@
 
   https://gist.github.com/ROBOMASTER-S1
 
-- Please visit my YouTube Community page at:
+- 📫 Please visit my YouTube Community page at:
 
   https://www.youtube.com/@Compuscience-Python-Prog-Exps/community
 
