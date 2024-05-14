@@ -1,4 +1,4 @@
-![Abstract Hexagons](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/82c5540c-dd20-4312-84f4-96aaf38b02f2)
+![Knowldge Hue Colour Animation](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/164571f1-0a93-4806-94ff-a9285f6b1ccc)
 
 ![Arc Frame Rasp Pi Binary Look](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/f0dd7901-8307-494f-968c-b1ffb2548994)
 
