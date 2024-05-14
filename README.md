@@ -36,7 +36,9 @@
 
 - 👀 Please visit my YouTube Community page at:
 
-  https://www.youtube.com/@Compuscience-Python-Prog-Exps/community  
+  https://www.youtube.com/@Compuscience-Python-Prog-Exps/community
+
+- I am almost a complete Walking Human Computer Science Research Laboratory Machine on Two Legs. 😁
 
   ![Arc Frame Rasp Pi Binary Look](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/f0dd7901-8307-494f-968c-b1ffb2548994)
 
