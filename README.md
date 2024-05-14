@@ -8,7 +8,7 @@
   Robomaster S1 become a line follower. You can also find the Scratch version
   of the Robomaster S1 Line Follower program right on dji's website at:
   
- [ https://www.dji.com/ca](https://www.dji.com/ca)
+  https://www.dji.com/ca
   
 - under their forum section at:
   
