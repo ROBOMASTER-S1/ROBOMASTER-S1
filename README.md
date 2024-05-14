@@ -1,5 +1,32 @@
 ![Knowldge Hue Colour Animation](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/164571f1-0a93-4806-94ff-a9285f6b1ccc)
 
+- 👋 Hi, I’m ROBOMASTER-S1.
+- 👀 I’m interested in robotics and programming.
+- 🌱 I’m currently learning Python; six years this Christmas day, 2023 coming.
+- 💞️ If anyone wants Python code, Robomaster s1 Python code and Cozmo
+- Python code; I have them all. I now have Python code on how to make the 
+- Robomaster S1 become a line follower. You can also find the Scratch version
+- of the Robomaster S1 Line Follower program right on dji's website at https://www.dji.com/ca
+- under their forum section at https://forum.dji.com/forum.php?mod=viewthread&tid=200450- 
+- 📫 You can reach me on Github.com and https://www.youtube.com/user/spaceuphoria/discussion
+- While you're at it, why not try out my really cool Robomaster S1 Comes to Life
+- Python program example. I'm pretty sure you'll love it.
+- Here is the actual YouTube video of the Robomaster S1 Comes to Life 4.0 Python program video example:
+- https://www.youtube.com/watch?v=L-c5KgZZA_0
+- Robomaster S1 YouTube video list https://www.youtube.com/playlist?list=PL-Jc1Yxezi_ShdaaEPE3mSawOt79ewUPZ
+- Why not learn some Raspberry Pi 4 with me. I'm very new to the famous Raspberry Pi, but I just love it...
+- https://www.youtube.com/playlist?list=PL-Jc1Yxezi_TOR8jY5l94UJ7WbXld1p1y
+- Python Programmer's Glossary Bible by Joseph C. Richardson https://www.youtube.com/playlist?list=PL-Jc1Yxezi_QFx7KmT-BeDoFnlH-bdUkF
+- [Robomaster App 2](https://user-images.githubusercontent.com/34896540/127963132-d2fb27fd-061a-4b1d-baff-1891de9c8dca.jpg)
+
+You can visit my GitHub Gist page for quicker access to these Python files and Python programs:
+
+https://gist.github.com/ROBOMASTER-S1
+
+Please visit my YouTube Community page at:
+
+https://www.youtube.com/@Compuscience-Python-Prog-Exps/community
+
 ![Arc Frame Rasp Pi Binary Look](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/f0dd7901-8307-494f-968c-b1ffb2548994)
 
 Raspberry Pi 4 8gb is here...
@@ -47,33 +74,6 @@ https://github.com/ROBOMASTER-S1/Lets-Learn-Python-Together
 My FLIPPER ZERO and How To Video Playlist
 
 https://www.youtube.com/playlist?list=PL-Jc1Yxezi_T5exaIaist2wP-ODzFC1wR
-
-- 👋 Hi, I’m ROBOMASTER-S1.
-- 👀 I’m interested in robotics and programming.
-- 🌱 I’m currently learning Python; six years this Christmas day, 2023 coming.
-- 💞️ If anyone wants Python code, Robomaster s1 Python code and Cozmo
-- Python code; I have them all. I now have Python code on how to make the 
-- Robomaster S1 become a line follower. You can also find the Scratch version
-- of the Robomaster S1 Line Follower program right on dji's website at https://www.dji.com/ca
-- under their forum section at https://forum.dji.com/forum.php?mod=viewthread&tid=200450- 
-- 📫 You can reach me on Github.com and https://www.youtube.com/user/spaceuphoria/discussion
-- While you're at it, why not try out my really cool Robomaster S1 Comes to Life
-- Python program example. I'm pretty sure you'll love it.
-- Here is the actual YouTube video of the Robomaster S1 Comes to Life 4.0 Python program video example:
-- https://www.youtube.com/watch?v=L-c5KgZZA_0
-- Robomaster S1 YouTube video list https://www.youtube.com/playlist?list=PL-Jc1Yxezi_ShdaaEPE3mSawOt79ewUPZ
-- Why not learn some Raspberry Pi 4 with me. I'm very new to the famous Raspberry Pi, but I just love it...
-- https://www.youtube.com/playlist?list=PL-Jc1Yxezi_TOR8jY5l94UJ7WbXld1p1y
-- Python Programmer's Glossary Bible by Joseph C. Richardson https://www.youtube.com/playlist?list=PL-Jc1Yxezi_QFx7KmT-BeDoFnlH-bdUkF
-- [Robomaster App 2](https://user-images.githubusercontent.com/34896540/127963132-d2fb27fd-061a-4b1d-baff-1891de9c8dca.jpg)
-
-You can visit my GitHub Gist page for quicker access to these Python files and Python programs:
-
-https://gist.github.com/ROBOMASTER-S1
-
-Please visit my YouTube Community page at:
-
-https://www.youtube.com/@Compuscience-Python-Prog-Exps/community
 
 Sometimes the mind is the only salvation from within, whenever the mind cannot get it from without. However, I'm more of a self-made computer scientist, than I am a self-made poet. I don't have very much of this at all. What I have here is what you get, until I come up with more as I go through life. Poetry isn't something that everyone has control over. poetry needs a credible, critical reason to be written down onto paper. Like, for example: You feel sad and abandoned by everyone, you thought loved you. Or you saw something in your dreams that amazed you, or dazzled upon something that triggered you to write that poem down onto paper. Poetry is written best, when its got feelings of whatever you feel inside you. First, write all your thoughts down, then have fun putting them all back together for the whole world to read... Just remember, they want to read your thoughts, through the actions you took to cause you to write that wonderful piece of poetry in motion. They don't want empty words, that posses no actions whatsoever behind their meaning. They want absolute truth with absolute reason. Get right to the point...
 ![Binary Comptuer Science](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/7ee914fd-f79a-499f-9b15-43c6e75d31d3)
