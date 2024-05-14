@@ -19,7 +19,10 @@
   
   https://www.youtube.com/watch?v=L-c5KgZZA_0
   
-- Robomaster S1 YouTube video list https://www.youtube.com/playlist?list=PL-Jc1Yxezi_ShdaaEPE3mSawOt79ewUPZ
+- Robomaster S1 YouTube video list:
+
+  https://www.youtube.com/playlist?list=PL-Jc1Yxezi_ShdaaEPE3mSawOt79ewUPZ
+  
 - Why not learn some Raspberry Pi 4 with me. I'm very new to the famous Raspberry Pi, but I just love it...
   
   https://www.youtube.com/playlist?list=PL-Jc1Yxezi_TOR8jY5l94UJ7WbXld1p1y
