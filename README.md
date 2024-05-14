@@ -31,13 +31,13 @@
 
 - You can visit my GitHub Gist page for quicker access to these Python files and Python programs:
 
-https://gist.github.com/ROBOMASTER-S1
+  https://gist.github.com/ROBOMASTER-S1
 
-Please visit my YouTube Community page at:
+  Please visit my YouTube Community page at:
 
-https://www.youtube.com/@Compuscience-Python-Prog-Exps/community
+  https://www.youtube.com/@Compuscience-Python-Prog-Exps/community
 
-![Arc Frame Rasp Pi Binary Look](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/f0dd7901-8307-494f-968c-b1ffb2548994)
+  ![Arc Frame Rasp Pi Binary Look](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/f0dd7901-8307-494f-968c-b1ffb2548994)
 
 Raspberry Pi 4 8gb is here...
 
