@@ -10,12 +10,13 @@
   
   https://www.dji.com/ca
 - under their forum section at:
-- 
+  
   https://forum.dji.com/forum.php?mod=viewthread&tid=200450- 
 - 📫 You can reach me on Github.com and https://www.youtube.com/user/spaceuphoria/discussion
 - While you're at it, why not try out my really cool Robomaster S1 Comes to Life
 - Python program example. I'm pretty sure you'll love it.
 - Here is the actual YouTube video of the Robomaster S1 Comes to Life 4.0 Python program video example:
+  
   https://www.youtube.com/watch?v=L-c5KgZZA_0
 - Robomaster S1 YouTube video list https://www.youtube.com/playlist?list=PL-Jc1Yxezi_ShdaaEPE3mSawOt79ewUPZ
 - Why not learn some Raspberry Pi 4 with me. I'm very new to the famous Raspberry Pi, but I just love it...
