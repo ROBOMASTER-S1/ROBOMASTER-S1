@@ -12,7 +12,8 @@
   
 - under their forum section at:
   
-  https://forum.dji.com/forum.php?mod=viewthread&tid=200450- 
+  https://forum.dji.com/forum.php?mod=viewthread&tid=200450-
+  
 - 📫 You can reach me on Github.com and:
 
   https://www.youtube.com/user/spaceuphoria/discussion
@@ -40,7 +41,7 @@
 
   https://gist.github.com/ROBOMASTER-S1
 
-- 📫 Please visit my YouTube Community page at:
+- 👀 Please visit my YouTube Community page at:
 
   https://www.youtube.com/@Compuscience-Python-Prog-Exps/community
 
