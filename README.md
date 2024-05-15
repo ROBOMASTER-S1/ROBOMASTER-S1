@@ -1,7 +1,7 @@
 ![Knowldge Hue Colour Animation](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/164571f1-0a93-4806-94ff-a9285f6b1ccc)
 
 - 😀 Hi, I’m ROBOMASTER-S1.
-- 💞️ I’m interested in robotics and programming.
+- 💞️ I’m interested in computer science and robotics.
 - 🌱 I’m currently learning Python; seven years this Christmas day, 2024 coming.
 - 👀 If anyone wants Python code, Robomaster s1 Python code and Cozmo
   Python code; I have them all. I now have Python code on how to make the 
