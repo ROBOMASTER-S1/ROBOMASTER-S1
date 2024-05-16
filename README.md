@@ -1,4 +1,5 @@
 ![Knowldge Hue Colour Animation](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/164571f1-0a93-4806-94ff-a9285f6b1ccc)
+![My Newspaper pic](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/d9863731-4eb2-4aee-aa00-97441d83f04b)
 
 - 😀 Hi, I’m ROBOMASTER-S1.
 - 💞️ I’m interested in computer science and robotics.
