@@ -2,6 +2,8 @@
 
 ![My Newspaper pic](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/d9863731-4eb2-4aee-aa00-97441d83f04b)
 
+![My Diploma Web 3 (1)](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/cbeed562-5484-4b86-b0a8-a3526021a5d0)
+
 - 😀 Hi, I’m ROBOMASTER-S1.
 - 💞️ I’m interested in computer science and robotics.
 - 🌱 I’m currently learning Python; seven years this Christmas day, 2024 coming.
