@@ -137,4 +137,7 @@ It's because of mistakes that things are possible to achieve. It's because of mi
 ![Luisa Art](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/f3c0638c-4688-46bd-b398-8c07b31d71ad)
 ![FOOTPRINTS](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/86333cd1-7e5b-4b9e-8f1d-630747ee62af)
 ![My YouTube Pages](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/3c60ca88-24b9-489b-b215-b45f50e0531e)
+
+![Rotating-Geo-Clockwise 2](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/3ffb83d1-eca6-4d8f-8cce-ed5146d6fc2d)
+
 I am almost a complete Walking Human Computer Science Research Laboratory Machine on Two Legs. 😁
