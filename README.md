@@ -4,6 +4,9 @@
 
 ![Screenshot 2024-05-30 06-35-36](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/74c7895e-6066-471d-810f-444fed210877)
 
+![My-Award-and-Tittle](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/dea141a5-237f-4d91-872d-41567996bbb9)
+https://youtu.be/882d4QtkoiI?si=yULKCIW_3KQJaFYo
+
 - 😀 Hi, I’m ROBOMASTER-S1.
 - 💞️ I’m interested in computer science and robotics.
 - 🌱 I’m currently learning Python; seven years this Christmas day, 2024 coming.
