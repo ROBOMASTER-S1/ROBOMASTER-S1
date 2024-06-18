@@ -9,7 +9,7 @@ years of my life. Where I was yesterday was how I got here today. That place was
 I was discovered to being a Near-Genius. In 2002, I was also diagnosed with Asperger's
 syndrome after my Mom passed away back in May 2000, just one day before her 67th
 Birthday. She said I had my Diploma, but I thought I had failed my second chance, due
-to a harsh falling out with an English teacher, back in late 1998. She could have seen it
+to a harsh falling out with an English teacher back in late 1998. She could have seen it
 before she died, but I didn't believe she was right. Yet, she was dead right!!
 
 ![SCASED-OUT!!](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/948f44b3-57a1-4eeb-bf8d-3000f90d3d5b)
