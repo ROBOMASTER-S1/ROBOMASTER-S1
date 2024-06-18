@@ -2,6 +2,16 @@
 
 ![My Newspaper pic](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/d9863731-4eb2-4aee-aa00-97441d83f04b)
 
+I achieved my second chance and graduated from an adult high school, called
+SCAS (Scarborough Centre for Alternative Studies) at 35 years young, back in 2001;
+it was the BEST decision, I had ever made. I attended that high school for three, short
+years of my life. Where I was yesterday was how I got here today. That place was where
+I was discovered to being a Near Genius. In 2002, I was also diagnosed with Asperger's
+syndrome after my Mom passed away, back in May 2000, just one day before her 67th
+Birthday. She said I had my Diploma, but I thought I had failed my second chance, due
+to a harsh falling out with an English teacher, back in late 1998. She could have seen it
+before she died, but I didn't believe she was right. Yet, she was dead right!!
+
 ![SCASED-OUT!!](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/948f44b3-57a1-4eeb-bf8d-3000f90d3d5b)
 
 ![Screenshot 2024-05-30 06-35-36](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/74c7895e-6066-471d-810f-444fed210877)
