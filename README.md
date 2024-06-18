@@ -2,6 +2,8 @@
 
 ![My Newspaper pic](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/d9863731-4eb2-4aee-aa00-97441d83f04b)
 
+![SCASED-OUT!!](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/948f44b3-57a1-4eeb-bf8d-3000f90d3d5b)
+
 ![Screenshot 2024-05-30 06-35-36](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/74c7895e-6066-471d-810f-444fed210877)
 
 ![My-Award-and-Tittle](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/dea141a5-237f-4d91-872d-41567996bbb9)
