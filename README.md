@@ -156,7 +156,7 @@ It's because of mistakes that things are possible to achieve. It's because of mi
 
 ![Luisa Art](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/f3c0638c-4688-46bd-b398-8c07b31d71ad)
 ![FOOTPRINTS](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/86333cd1-7e5b-4b9e-8f1d-630747ee62af)
-![YouTube Card](https://github.com/user-attachments/assets/5256cea3-78d6-4f21-b67d-342e67c00779)
+![YouTube Card](https://github.com/user-attachments/assets/a930ac9f-ac52-46ed-869d-d692d1fab72d)
 www.youtube.com/@Compuscience-Python-Programs
 
 I am almost a complete Walking Human Computer Science Research
