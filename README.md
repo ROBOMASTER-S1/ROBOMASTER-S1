@@ -1,6 +1,7 @@
 ![YouTube Card](https://github.com/user-attachments/assets/c9e1093a-bf36-4e0d-9294-e7ad82fee2e1)
 
 ![My Newspaper pic](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/d9863731-4eb2-4aee-aa00-97441d83f04b)
+www.youtube.com/@Compuscience-Python-Programs
 
 I achieved my second chance and graduated from an adult high school, called
 SCAS (Scarborough Centre for Alternative Studies) at 35 years young, back in 2001;
