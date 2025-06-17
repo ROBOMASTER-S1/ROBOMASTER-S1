@@ -19,7 +19,7 @@ grade twelve English.
 
 ![SCASED-OUT!!](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/948f44b3-57a1-4eeb-bf8d-3000f90d3d5b)
 
-![Screenshot 2024-05-30 06-35-36](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/74c7895e-6066-471d-810f-444fed210877)
+![My Diploma Web 4](https://github.com/user-attachments/assets/c874e763-17be-459e-ba9b-67a96b0d5b16)
 
 ![My-Award-and-Tittle (1)](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/821cb318-cf53-4f17-9afb-81f662c6a9dd)
 https://youtu.be/882d4QtkoiI?si=yULKCIW_3KQJaFYo
