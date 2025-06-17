@@ -21,7 +21,7 @@ grade twelve English.
 
 ![My Diploma Web 4](https://github.com/user-attachments/assets/c874e763-17be-459e-ba9b-67a96b0d5b16)
 
-![My-Award-and-Tittle (1)](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/821cb318-cf53-4f17-9afb-81f662c6a9dd)
+![My Diploma Web 5](https://github.com/user-attachments/assets/395c8dd6-cb51-4f79-ac96-fbb83fd9384d)
 https://youtu.be/882d4QtkoiI?si=yULKCIW_3KQJaFYo
 
 - 😀 Hi, I’m ROBOMASTER-S1.
