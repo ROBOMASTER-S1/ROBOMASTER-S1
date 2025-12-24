@@ -1,4 +1,4 @@
-![Black Joshua Logo](https://github.com/user-attachments/assets/a7389da9-a91f-4e3a-a499-9d5241aadfdf)
+<img width="1920" height="1080" alt="Screenshot 2025-12-23 22-48-55" src="https://github.com/user-attachments/assets/f705da50-d71a-4332-a67d-7b431c613b73" />
 ![Rotating-Polygon](https://github.com/user-attachments/assets/fb667593-dcb7-4306-b9aa-976b345b1948)
 ![YouTube Card](https://github.com/user-attachments/assets/21aa7ff5-e21c-4d38-bb97-933bd4819f21)
 www.youtube.com/@Compuscience-Python-Programs
