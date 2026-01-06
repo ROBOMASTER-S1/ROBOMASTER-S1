@@ -163,3 +163,5 @@ www.youtube.com/@Compuscience-Python-Programs
 
 I am almost a complete Walking Human Computer Science Research
 Laboratory Machine on Two Legs... 😁
+<img width="1024" height="1024" alt="My AI Diploma" src="https://github.com/user-attachments/assets/8889b26a-f67f-49b6-8585-6938246ace6b" />
+
