@@ -160,8 +160,5 @@ It's because of mistakes that things are possible to achieve. It's because of mi
 ![FOOTPRINTS](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/86333cd1-7e5b-4b9e-8f1d-630747ee62af)
 ![YouTube Card](https://github.com/user-attachments/assets/a930ac9f-ac52-46ed-869d-d692d1fab72d)
 www.youtube.com/@Compuscience-Python-Programs
-
-I am almost a complete Walking Human Computer Science Research
-Laboratory Machine on Two Legs... 😁
 <img width="1024" height="1024" alt="My AI Diploma" src="https://github.com/user-attachments/assets/8889b26a-f67f-49b6-8585-6938246ace6b" />
 
