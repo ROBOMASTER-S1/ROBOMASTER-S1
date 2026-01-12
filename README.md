@@ -18,6 +18,7 @@ At least she died knowing I became a genius, or a near one, I should say. lol I 
 very high on an aptitude test to get to go there and start at the grade level I would need,
 which was at the bottom of grade ten for me. I achieved grade eleven General Math and
 grade twelve English.
+
 <img width="1364" height="702" alt="THE ASPERGERS MINDSET" src="https://github.com/user-attachments/assets/a8322cee-a9ba-4f46-aa9c-7f7aea11f563" />
 
 ![SCASED-OUT!!](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/948f44b3-57a1-4eeb-bf8d-3000f90d3d5b)
