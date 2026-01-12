@@ -21,7 +21,6 @@ grade twelve English.
 
 <img width="1364" height="702" alt="THE ASPERGERS MINDSET" src="https://github.com/user-attachments/assets/a8322cee-a9ba-4f46-aa9c-7f7aea11f563" />
 
-
 ![SCASED-OUT!!](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/948f44b3-57a1-4eeb-bf8d-3000f90d3d5b)
 
 ![My Diploma Web 4](https://github.com/user-attachments/assets/c874e763-17be-459e-ba9b-67a96b0d5b16)
