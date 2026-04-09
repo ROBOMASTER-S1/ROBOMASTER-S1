@@ -96,7 +96,7 @@ Learning how to program the Robomaster s1 in Python
 
 https://github.com/ROBOMASTER-S1/ROBOMASTER-S1-Python-Examples
 
-![Python logo Binary White Arc Frame](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/e0147f7d-169c-4ff6-a673-b881e79916de)
+<img width="1920" height="1080" alt="Big Bin Python Logo Red Arc Frame" src="https://github.com/user-attachments/assets/88ccd1fc-a345-4b86-b9ef-37efc3ff8e92" />
 
 Python Programmer's Glossary Bible Videos By Joseph C. Richardson
 
