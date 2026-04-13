@@ -160,6 +160,7 @@ It's because of mistakes that things are possible to achieve. It's because of mi
 
 ![Luisa Art](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/f3c0638c-4688-46bd-b398-8c07b31d71ad)
 ![FOOTPRINTS](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/86333cd1-7e5b-4b9e-8f1d-630747ee62af)
+![Gift Poem Corrienne](https://github.com/user-attachments/assets/ad66ed3f-9e91-4176-a231-cd0b33466dc1)
 ![YouTube Card](https://github.com/user-attachments/assets/a930ac9f-ac52-46ed-869d-d692d1fab72d)
 www.youtube.com/@Compuscience-Python-Programs
 
