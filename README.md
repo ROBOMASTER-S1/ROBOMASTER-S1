@@ -4,7 +4,8 @@
 www.youtube.com/@Compuscience-Python-Programs
 <img width="1366" height="768" alt="SPACEUPHORIA-13 (1)" src="https://github.com/user-attachments/assets/ea95aebd-ee6a-40e8-affc-6619f102c8d6" />
 I Dedicate my Entire GitHub page to my Ever Loving Mother, in her Birth Given Name:
-Joan Mary Daniels
+Joan Mary Daniels. Below was from my website I had called SPACEUPHORIA, which my Mom
+predicted it eleven years before I created it...
 <img width="850" height="1479" alt="The Existence of SPACEUPHORIA" src="https://github.com/user-attachments/assets/f2ca932d-6ddb-4118-88e6-844251884977" />
 ![My Newspaper pic](https://github.com/ROBOMASTER-S1/ROBOMASTER-S1/assets/34896540/d9863731-4eb2-4aee-aa00-97441d83f04b)
 
