@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2026-08-11 17-03-52" src="https://github.com/user-attachments/assets/09a1627f-f52d-42a9-b3f9-ac6ec1ebb72e" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-11 16-58-32" src="https://github.com/user-attachments/assets/1e8d7716-bfda-412f-ad45-f21b0479426a" />
 
 ![YouTube Card](https://github.com/user-attachments/assets/21aa7ff5-e21c-4d38-bb97-933bd4819f21)
 www.youtube.com/@Compuscience-Python-Programs
